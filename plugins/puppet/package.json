@@ -14,9 +14,9 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "chrome-location": "^1.2.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fast-glob": "^3.0.4",
-    "mocha": "^5.2.0",
+    "mocha": "^10.1.0",
     "puppeteer-core": "^3.3.0"
   }
 }
