@@ -35,7 +35,7 @@
     "@poi/plugin-html-entry": "^0.2.3",
     "@poi/pnp-webpack-plugin": "^0.0.2",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
-    "babel-loader": "^8.0.4",
+    "babel-loader": "^9.1.3",
     "babel-plugin-assets-named-imports": "^0.2.1",
     "babel-plugin-macros": "^2.4.2",
     "babel-plugin-transform-vue-jsx": "^4.0.0",
