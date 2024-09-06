@@ -9,8 +9,8 @@
   },
   "xo": false,
   "dependencies": {
-    "execa": "^1.0.0",
-    "fast-glob": "^3.0.4",
+    "execa": "^2.1.0",
+    "fast-glob": "^3.2.6",
     "fs-extra": "^9.0.0"
   }
 }
