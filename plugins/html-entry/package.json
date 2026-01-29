@@ -10,9 +10,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "chokidar": "^2.0.4",
+    "chokidar": "^3.0.0",
     "fs-extra": "^9.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.23",
     "posthtml": "^0.13.0"
   }
 }
